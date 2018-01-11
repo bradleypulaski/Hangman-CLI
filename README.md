@@ -1,5 +1,6 @@
 # Hangman-CLI
 _This project is to demonstrate a logic based game using cli_
+
 **Node Packages used**
 - inquirer
 - fs
