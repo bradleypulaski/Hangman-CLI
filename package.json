@@ -1,0 +1,24 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "_This project is to demonstrate a logic based game using cli_\r **Node Packages used**\r - inquirer\r - fs",
+  "main": "game.js",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleypulaski/Hangman-CLI.git"
+  },
+  "author": "Bradley Pulaski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleypulaski/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/bradleypulaski/Hangman-CLI#readme"
+}
